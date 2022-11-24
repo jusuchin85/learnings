@@ -5,3 +5,4 @@ Contains a collection of READMEs for the various areas of my learning. Some of t
 ## Table of Contents
 
 - [GNU `grep` and `ripgrep`](gnu-grep/)
+- [LDAP](ldap/)
